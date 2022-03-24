@@ -1,2 +1,2 @@
 # microtask
-microtasks foe media wiki
+microtasks for media wiki
